@@ -8,3 +8,4 @@ GitLab: [https://gitlab.alegsoftware.ga](https://lnk.alegsoftware.ga/pwzla)
 
 Complete download server: [https://download.alegsoftware.ga](https://lnk.alegsoftware.ga/jin3y)
 
+Blog (in italian): [https://www.alegsoftware.ga/blog](http://lnk.alegsoftware.ga/VtGAm)
