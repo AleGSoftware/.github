@@ -1,11 +1,11 @@
-![AleGSoftware](https://www.alegsoftware.ga/immagini/logo_small.png) GitHub Mirror
+![AleGSoftware](https://www.alegsoftware.com/immagini/logo_small.png) GitHub Mirror
 
-Website: [https://www.alegsoftware.ga](https://lnk.alegsoftware.ga/uvy66)
+Website: [https://www.alegsoftware.com](https://lnk.alegsoftware.com/uvy66)
 
-Email: [alegsoftware@icloud.com](mailto:alegsoftware@icloud.com)
+Email: [aleg@alegsoftware.com](mailto:aleg@alegsoftware.com)
 
-GitLab: [https://gitlab.alegsoftware.ga](https://lnk.alegsoftware.ga/pwzla)
+GitLab: [https://gitlab.alegsoftware.com](https://lnk.alegsoftware.com/pwzla)
 
-Complete download server: [https://download.alegsoftware.ga](https://lnk.alegsoftware.ga/jin3y)
+Complete download server: [https://download.alegsoftware.com](https://lnk.alegsoftware.com/jin3y)
 
-Blog (in italian): [https://www.alegsoftware.ga/blog](http://lnk.alegsoftware.ga/VtGAm)
+Blog (in italian): [https://www.alegsoftware.com/blog](http://lnk.alegsoftware.com/VtGAm)
